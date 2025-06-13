@@ -1,6 +1,10 @@
 ### Hello 👋
 
-📫 How to reach me: https://www.linkedin.com/in/paulngilson/
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/paulngilson/)
+
+❄️ Most significant (public) coding repo: [Advent of Code](https://github.com/PaulNGilson/AoC)
+
+💾 Codewars progress: <img valign="bottom" src="https://www.codewars.com/users/PaulNGilson/badges/micro" />
 
 <!--
 **PaulNGilson/PaulNGilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
